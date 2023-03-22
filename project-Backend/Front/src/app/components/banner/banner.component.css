@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+	background: linear-gradient( 155deg, rgba(21, 20, 58), rgba(2, 61, 34, 0.5)),
+	url(https://lageografia.com/wp-content/uploads/universo.jpg) no-repeat center;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 100vh;
+	color: #fff;
+	min-height: 500px;
+}
